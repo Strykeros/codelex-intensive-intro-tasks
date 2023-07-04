@@ -1,0 +1,15 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\bin\Debug\net7.0\ShuffleTheName.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\bin\Debug\net7.0\ShuffleTheName.deps.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\bin\Debug\net7.0\ShuffleTheName.runtimeconfig.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\bin\Debug\net7.0\ShuffleTheName.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\bin\Debug\net7.0\ShuffleTheName.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.AssemblyInfoInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.AssemblyInfo.cs
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\refint\ShuffleTheName.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ShuffleTheName.genruntimeconfig.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShuffleTheName\obj\Debug\net7.0\ref\ShuffleTheName.dll

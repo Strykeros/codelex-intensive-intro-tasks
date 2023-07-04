@@ -1,0 +1,15 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\bin\Debug\net7.0\ReverseTheCase.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\bin\Debug\net7.0\ReverseTheCase.deps.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\bin\Debug\net7.0\ReverseTheCase.runtimeconfig.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\bin\Debug\net7.0\ReverseTheCase.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\bin\Debug\net7.0\ReverseTheCase.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.AssemblyInfoInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.AssemblyInfo.cs
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\refint\ReverseTheCase.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ReverseTheCase.genruntimeconfig.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ReverseTheCase\obj\Debug\net7.0\ref\ReverseTheCase.dll

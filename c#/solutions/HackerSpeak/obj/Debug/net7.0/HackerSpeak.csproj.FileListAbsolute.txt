@@ -1,0 +1,15 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\bin\Debug\net7.0\HackerSpeak.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\bin\Debug\net7.0\HackerSpeak.deps.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\bin\Debug\net7.0\HackerSpeak.runtimeconfig.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\bin\Debug\net7.0\HackerSpeak.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\bin\Debug\net7.0\HackerSpeak.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.AssemblyInfoInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.AssemblyInfo.cs
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\refint\HackerSpeak.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\HackerSpeak.genruntimeconfig.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\HackerSpeak\obj\Debug\net7.0\ref\HackerSpeak.dll

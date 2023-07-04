@@ -1,0 +1,15 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\bin\Debug\net7.0\AbsoluteSum.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\bin\Debug\net7.0\AbsoluteSum.deps.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\bin\Debug\net7.0\AbsoluteSum.runtimeconfig.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\bin\Debug\net7.0\AbsoluteSum.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\bin\Debug\net7.0\AbsoluteSum.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.AssemblyInfoInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.AssemblyInfo.cs
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\refint\AbsoluteSum.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\AbsoluteSum.genruntimeconfig.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\AbsoluteSum\obj\Debug\net7.0\ref\AbsoluteSum.dll

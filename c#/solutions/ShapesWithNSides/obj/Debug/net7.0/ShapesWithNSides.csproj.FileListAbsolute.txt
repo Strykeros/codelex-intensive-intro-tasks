@@ -1,0 +1,15 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\bin\Debug\net7.0\ShapesWithNSides.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\bin\Debug\net7.0\ShapesWithNSides.deps.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\bin\Debug\net7.0\ShapesWithNSides.runtimeconfig.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\bin\Debug\net7.0\ShapesWithNSides.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\bin\Debug\net7.0\ShapesWithNSides.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.AssemblyInfoInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.AssemblyInfo.cs
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\refint\ShapesWithNSides.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ShapesWithNSides.genruntimeconfig.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\ShapesWithNSides\obj\Debug\net7.0\ref\ShapesWithNSides.dll

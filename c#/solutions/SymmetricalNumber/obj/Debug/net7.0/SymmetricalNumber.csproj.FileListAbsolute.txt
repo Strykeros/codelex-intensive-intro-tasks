@@ -1,0 +1,15 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\bin\Debug\net7.0\SymmetricalNumber.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\bin\Debug\net7.0\SymmetricalNumber.deps.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\bin\Debug\net7.0\SymmetricalNumber.runtimeconfig.json
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\bin\Debug\net7.0\SymmetricalNumber.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\bin\Debug\net7.0\SymmetricalNumber.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.AssemblyInfoInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.AssemblyInfo.cs
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\refint\SymmetricalNumber.dll
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\SymmetricalNumber.genruntimeconfig.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\intensive-course-prep-materials\c#\solutions\SymmetricalNumber\obj\Debug\net7.0\ref\SymmetricalNumber.dll
