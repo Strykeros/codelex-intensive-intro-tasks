@@ -1,0 +1,8 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\bin\Debug\Tax_11.exe.config
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\bin\Debug\Tax_11.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\bin\Debug\Tax_11.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\obj\Debug\Tax-11.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\obj\Debug\Tax-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\obj\Debug\Tax-11.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\obj\Debug\Tax_11.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Tax-11\obj\Debug\Tax_11.pdb

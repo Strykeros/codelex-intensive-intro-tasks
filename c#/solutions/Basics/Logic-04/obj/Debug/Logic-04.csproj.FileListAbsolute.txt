@@ -1,0 +1,8 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\bin\Debug\Logic-04.exe.config
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\bin\Debug\Logic-04.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\bin\Debug\Logic-04.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\obj\Debug\Logic-04.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\obj\Debug\Logic-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\obj\Debug\Logic-04.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\obj\Debug\Logic-04.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\Logic-04\obj\Debug\Logic-04.pdb

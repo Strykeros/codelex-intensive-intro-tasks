@@ -28,7 +28,8 @@ namespace Tax_11
         //change only this method accordingly.
         static double CalculateSalesTax(double price)
         {
-            return price;
+            string result = (price * 0.20).ToString("F2");
+            return Convert.ToDouble(result);
         }
     }
 }

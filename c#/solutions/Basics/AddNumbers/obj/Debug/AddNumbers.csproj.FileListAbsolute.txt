@@ -5,3 +5,11 @@
 /Users/mac/Desktop/codelex/csharp/c-sharp-syllabus/csharp-basics/exercises/Basics/AddNumbers/obj/Debug/AddNumbers.csproj.CoreCompileInputs.cache
 /Users/mac/Desktop/codelex/csharp/c-sharp-syllabus/csharp-basics/exercises/Basics/AddNumbers/obj/Debug/AddNumbers.exe
 /Users/mac/Desktop/codelex/csharp/c-sharp-syllabus/csharp-basics/exercises/Basics/AddNumbers/obj/Debug/AddNumbers.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\bin\Debug\AddNumbers.exe.config
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\bin\Debug\AddNumbers.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\bin\Debug\AddNumbers.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\obj\Debug\AddNumbers.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\obj\Debug\AddNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\obj\Debug\AddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\obj\Debug\AddNumbers.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers\obj\Debug\AddNumbers.pdb

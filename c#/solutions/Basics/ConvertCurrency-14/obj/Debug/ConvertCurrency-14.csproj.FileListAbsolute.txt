@@ -1,0 +1,8 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\bin\Debug\ConvertCurrency_14.exe.config
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\bin\Debug\ConvertCurrency_14.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\bin\Debug\ConvertCurrency_14.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency-14.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency-14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency-14.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency_14.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency_14.pdb

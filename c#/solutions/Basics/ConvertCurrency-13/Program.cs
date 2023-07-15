@@ -25,7 +25,10 @@ namespace ConvertCurrency_13
         //change this method accordingly
         static double ConvertToUSD(double price)
         {
-            return price;
+            double value = price * 1.4;
+            string resultStr = value.ToString("F2");
+            double result = Convert.ToDouble(resultStr);
+            return result;
         }
     }
 }

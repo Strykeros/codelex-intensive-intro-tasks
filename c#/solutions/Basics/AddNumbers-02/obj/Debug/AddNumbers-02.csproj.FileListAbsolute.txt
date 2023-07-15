@@ -1,0 +1,8 @@
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\bin\Debug\AddNumbers-02.exe.config
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\bin\Debug\AddNumbers-02.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\bin\Debug\AddNumbers-02.pdb
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.csproj.AssemblyReference.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.exe
+C:\Users\Bob\Desktop\codelex-intensive-course-tasks\codelex-intensive-intro-tasks\c#\solutions\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.pdb

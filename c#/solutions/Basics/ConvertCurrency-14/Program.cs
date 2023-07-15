@@ -28,16 +28,22 @@ namespace ConvertCurrency_14
             Console.ReadKey();
         }
 
+        private static double convertMoney(double price, double exchangeRate, double percent)
+        {
+            string converted = (price * exchangeRate * percent).ToString("F2");
+            return Convert.ToDouble(converted);
+        }
+
         //change this method accordingly
         static double ConvertToUSD(double price)
         {
-            return price;
+            return convertMoney(price, 1.41, 1.01);
         }
 
         //change this method accordingly
         static double ConvertToBRL(double price)
         {
-            return price;
+            return convertMoney(price, 8.89, 1.01);
         }
     }
 }
